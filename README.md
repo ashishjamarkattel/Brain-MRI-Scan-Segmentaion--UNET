@@ -30,7 +30,7 @@ Since this is the task of segmentaion we can use UNET.
 but here for learning i will be using 2 model 
 
     1. UNET
-    2. CAM NET
+    
 
 
 ## CONSTRAIN
